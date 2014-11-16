@@ -1,0 +1,10 @@
+PODS:
+  - ifacegen (0.1.0)
+
+DEPENDENCIES:
+  - ifacegen
+
+SPEC CHECKSUMS:
+  ifacegen: d73e4753c3bbebd6b620c770b32738e04a57dc2e
+
+COCOAPODS: 0.35.0.rc1
