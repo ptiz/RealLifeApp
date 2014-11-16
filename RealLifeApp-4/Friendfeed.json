@@ -1,0 +1,36 @@
+{"iface":[
+
+    {
+    "struct":"Entity",
+    "typedef":{
+            "body": "string",
+            "via": {
+                "url": "string",
+                "name": "string"
+                },
+            "from": {
+                "id": "string",
+                "name": "string"
+                },
+            "url": "string",
+            "date": "string",
+            "id": "string"
+            }
+    },
+
+    {
+    "struct":"Feed",
+    "typedef": {
+        "id": "string",
+        "description": "string",
+        "name": "string",
+        "entries":["Entity"]
+        }
+    },
+
+    {
+    "procedure": "getFeed",
+    "response": "Feed"
+    }
+
+]}
