@@ -1,4 +1,4 @@
-RealLifeApp-2/generated
-RealLifeApp-2/RealLifeApp.xcodeproj/project.xcworkspace/xcuserdata
-RealLifeApp-3/RealLifeApp.xcodeproj/project.xcworkspace/xcuserdata
-RealLifeApp-4/RealLifeApp.xcodeproj/project.xcworkspace/xcuserdata
+generated
+Pods
+xcuserdata
+*.xcworkspace

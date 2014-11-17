@@ -3,5 +3,4 @@ platform :ios, '7.0'
 
 workspace 'RealLifeApp'
 
-#pod 'ifacegen', :git => 'https://github.com/ptiz/ifacegen.git'
-pod 'ifacegen'
+pod 'ifacegen', '~> 0.1.1'
